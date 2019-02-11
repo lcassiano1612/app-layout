@@ -1,1 +1,1 @@
-import components from './app-button.js'
+console.log('teste');
