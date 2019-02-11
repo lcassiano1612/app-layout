@@ -1,1 +1,1 @@
-console.log('teste');
+appButton = require('app-button.js');
