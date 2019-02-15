@@ -1,1 +1,0 @@
-appButton = require('app-button.js');
